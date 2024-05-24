@@ -28,7 +28,7 @@ This project provides a set of functions to manipulate and analyze a directed gr
 2. Compile the source code:
 
     ```sh
-    g++ -o graph main.cpp
+    g++ -o graph CoursWork2Kotomin.cpp
     ```
 
 3. Run the executable:
